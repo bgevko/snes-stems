@@ -1,0 +1,11 @@
+# Ignore build artifacts and temporary files
+/build/
+*.o
+*.a
+*.dylib
+
+# Ignore specific IDE/editor configurations
+*.code-workspace
+
+# If you have more directories or files to ignore, add them below
+
